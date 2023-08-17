@@ -1,4 +1,4 @@
-# Driveline-Biomechanics-Data-Project
+# Increase Bat Speed
 Conducted data analysis on hitting metadata csv provided from the Driveline Open Biomechanics GitHub
 
 This program reads data from metadata.csv located in the github directory drivelineresearch/openbiomechanics/baseball_hitting/data. It filters the data by the heights, weights, and highest playing levels of the hitters and records their bat speeds. It then arranges the data by these categories and calculates the average bat speed for each group. 
