@@ -9,7 +9,7 @@ The program reads data from metadata.csv located in the GitHub directory driveli
 - Filters and categorizes data by heights, weights, and playing levels.
 - Calculates average bat speed for each category.
 - Displays results in sentences and bar graphs using the Matplotlib library.
-- Utilizes separate classes for calculating average bat speed for different categories.
+- Uses separate classes for calculating average bat speed for different categories.
 
 # Report
 
